@@ -86,14 +86,23 @@ In PW 37, basic interaction has been fixed.
 
 Laser pointer interactions with widget existing in Slicer:
 
-<video src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW39_2023_Montreal/Projects/SlicerVRInteraction/GUIWidgetInteraction_DataModule.mp4"></video>
+<video
+  controls muted
+  src="https://github.com/NA-MIC/ProjectWeek/assets/1325980/a6fc0061-e40e-43e3-92a0-b31badb14c43"
+  style="max-height:640px; min-height: 200px">
+</video>
 
 Laser pointer interactions with custom widget:
 
-<video src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW39_2023_Montreal/Projects/SlicerVRInteraction/GUIWidgetInteraction_CustomWidget.mp4"></video>
+<video
+  controls muted
+  src="https://github.com/NA-MIC/ProjectWeek/assets/1325980/7c457f93-2b80-4806-9cb5-e58acc393aa4"
+  style="max-height:640px; min-height: 200px">
+</video>
 
-(in case the MP4s are not playing)
-![GUIWidgetInteraction_CustomWidget](https://github.com/NA-MIC/ProjectWeek/assets/1325980/d84c3b6c-c243-4778-b6c6-1e20e3093e6c)
+More comprehensive demonstration:
+
+[![More comprehensive demonstration](https://i9.ytimg.com/vi_webp/Ny5gmIFbhK4/mq1.webp?sqp=CJTDrKQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgSyhlMA8=&rs=AOn4CLDerRLwDJQoa2buCxVCCoKyIv-glA)](https://youtu.be/Ny5gmIFbhK4)
 
 # Background and References
 
